@@ -1,0 +1,1 @@
+print("Hello Ngon Ngu Lap Trinh Python")

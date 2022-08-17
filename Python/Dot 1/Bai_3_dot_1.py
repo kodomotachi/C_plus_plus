@@ -1,0 +1,6 @@
+a = int(input('Nhap so thu nhat de tinh toan: '))
+b = int(input('Nhap so thu hai de tinh toan: '))
+print('{0} - {1} = {2}'.format(a, b, a+b))
+print('{0} + {1} = {2}'.format(a, b, a-b))
+print('{0} * {1} = {2}'.format(a, b, a*b))
+print('{0} / {1} = {2}'.format(a, b, a/b))

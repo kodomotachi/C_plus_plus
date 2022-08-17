@@ -1,0 +1,5 @@
+a = int(input('Nhap so thu nhat: '))
+b = int(input('Nhap so thu hai: '))
+c = int(input('Nhap so thu ba: '))
+d = int(input('Nhap so thu tu: '))
+print('Max cua 4 so do la {0}'.format(max(a, b, c, d)))
